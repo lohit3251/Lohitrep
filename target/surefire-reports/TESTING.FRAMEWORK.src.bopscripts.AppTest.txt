@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: TESTING.FRAMEWORK.src.bopscripts.AppTest
+-------------------------------------------------------------------------------
+Tests run: 0, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.816 s -- in TESTING.FRAMEWORK.src.bopscripts.AppTest
