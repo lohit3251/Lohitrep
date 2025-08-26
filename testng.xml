@@ -3,7 +3,7 @@
 <suite name="Example Suite">
   <test thread-count="5" name="Example Test">
 	  <classes>
-            <class name="AIF.aiflogin"/>
+            <class name="AIF.Aiflogin"/>
         </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
